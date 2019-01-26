@@ -1,6 +1,6 @@
 owner=344131660410781697
 prefix=1$
-game=Break | 1$play
+game=DF_Team | 1$play
 stayinchannel=true
 songinstatus=false
 token=NDgxOTQ5OTgzMDUwOTU2ODAx.Dy0oWA.czLqwyaufFODnuk4cuWH9DIMtDg
