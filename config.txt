@@ -1,6 +1,6 @@
-owner=344131660410781697
+owner=468514598517997588
 prefix=1$
 game=DF_Team | 1$play
 stayinchannel=true
 songinstatus=false
-token=NDgxOTQ5OTgzMDUwOTU2ODAx.Dy0oWA.czLqwyaufFODnuk4cuWH9DIMtDg
+token=NDgxOTQ5OTgzMDUwOTU2ODAx.XP0eaQ.p1FLuJsxe4gxS2ZfJyuMsyunXII
